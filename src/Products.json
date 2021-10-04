@@ -1,0 +1,24 @@
+{
+    "Products":[
+      {"id":"1","pname":"Pencil","price":200,"quantity":1,"images":"images/1.jpg","total":0},
+      {"id":"2","pname":"Pen","price":300,"quantity":1,"images":"images/2.jpg","total":0},
+      {"id":"3","pname":"Eraser","price":500,"quantity":1,"images":"images/3.jpeg","total":0},
+      {"id":"4","pname":"Book","price":400,"quantity":1,"images":"images/4.jpg","total":0},
+      {"id":"5","pname":"Scale","price":150,"quantity":1,"images":"images/5.jpg","total":0},
+      {"id":"6","pname":"Table","price":250,"quantity":1,"images":"images/6.png","total":0},
+      {"id":"7","pname":"Chair","price":450,"quantity":1,"images":"images/7.jpg","total":0},
+      {"id":"8","pname":"Laptop","price":550,"quantity":1,"images":"images/8.jpg","total":0},
+      {"id":"9","pname":"Headphone","price":5000,"quantity":1,"images":"images/9.jpg","total":0},
+      {"id":"10","pname":"Bottle","price":600,"quantity":1,"images":"images/10.jpg","total":0},
+      {"id":"11","pname":"Pencil1","price":200,"quantity":1,"images":"images/1.jpg","total":0},
+      {"id":"12","pname":"Pen1","price":300,"quantity":1,"images":"images/2.jpg","total":0},
+      {"id":"13","pname":"Eraser1","price":500,"quantity":1,"images":"images/3.jpeg","total":0},
+      {"id":"14","pname":"Book1","price":400,"quantity":1,"images":"images/4.jpg","total":0},
+      {"id":"15","pname":"Scale1","price":150,"quantity":1,"images":"images/5.jpg","total":0},
+      {"id":"16","pname":"Table1","price":250,"quantity":1,"images":"images/6.png","total":0},
+      {"id":"17","pname":"Chair1","price":450,"quantity":1,"images":"images/7.jpg","total":0},
+      {"id":"18","pname":"Laptop1","price":550,"quantity":1,"images":"images/8.jpg","total":0},
+      {"id":"19","pname":"Headphone1","price":5000,"quantity":1,"images":"images/9.jpg","total":0},
+      {"id":"20","pname":"Bottle1","price":600,"quantity":1,"images":"images/10.jpg","total":0}
+    ]
+  }
